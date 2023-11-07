@@ -24,7 +24,7 @@ main ()
     }
   else
     {
-      printf ("Sessao encerrada!");
+      printf ("Acesso negado! \n\n sessao encerrada!");
     }
 
 
