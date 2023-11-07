@@ -25,17 +25,15 @@ main ()
     {
     case 1:
       printf ("Welcome! \n");
-      printf ("His choice was the English language.");
-
+    
       break;
     case 2:
       printf ("Sea bienvenido! \n");
-      printf ("TC: elegiste el idioma en espaC1ol.");
-
+     
       break;
     case 3:
       printf ("Accueillir! \n");
-      printf ("Vous avez choisi la langue en franC'ais.");
+   
 
       break;
     default:
